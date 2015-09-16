@@ -1,0 +1,17 @@
+{
+    "name": "Hitman",
+    "version": "0.1.0",
+    "description": "AIX check log parse to xlsx",
+    "homepage": "https://github.com/liaobin429",
+    "keywords": ["aix", "log", "xlsx"],
+    "author": "liaobin<liaobin429@sina.com>",
+    "dependencies": {
+        "excel": "0.0.60",
+		"excel-export": "0.3.9",
+		"node-xlsx": "*",
+		"moment":"*",
+		"log4js":"*",
+		"eventproxy":"*"
+    },
+    "engines": { "node": ">= 0.6.0" }
+}
