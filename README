@@ -1,15 +1,17 @@
-·þÎñÆ÷Ñ²¼ì
-ÓÃnodeÐ´ÁËÒ»¸öÑ²¼ì£¬½âÎö³Éexcel£¬
-²¿Êð¹ý³Ì£º
 
-1¡¢½«shell²¿ÊðÔÚ·þÎñÆ÷ÉÏ£¬/BMC/Patrol3/patrol_checkÄ¿Â¼ÏÂ£¬¿ÉÒÔÐÞ¸Äshell½Å±¾ÖÐµÄÄ¿Â¼¡£
-2¡¢·þÎñ¼Ó¸öcrontab£¬Ã¿ÌìÔçÉÏÖ´ÐÐpatrol_check.sh£¬
-3¡¢ÐÞ¸Äpatrol_check.sh ½Å±¾ÖÐµÄ
+
+###æœåŠ¡å™¨å·¡æ£€ ç»“æžœç”Ÿæˆexcel
+ç”¨nodeå†™äº†ä¸€ä¸ªå·¡æ£€ï¼Œè§£æžæˆexcelï¼Œ
+éƒ¨ç½²è¿‡ç¨‹ï¼š
+
+1ã€å°†shelléƒ¨ç½²åœ¨æœåŠ¡å™¨ä¸Šï¼Œ/BMC/Patrol3/patrol_checkç›®å½•ä¸‹ï¼Œå¯ä»¥ä¿®æ”¹shellè„šæœ¬ä¸­çš„ç›®å½•ã€‚
+2ã€æœåŠ¡åŠ ä¸ªcrontabï¼Œæ¯å¤©æ—©ä¸Šæ‰§è¡Œpatrol_check.shï¼Œ
+3ã€ä¿®æ”¹patrol_check.sh è„šæœ¬ä¸­çš„
 
 open 11.111.111.11
 user username password
 
-¸ÃIPµØÖ·ÎªÄãÒªÉÏ´«ÖÁ·þÎñÆ÷µØÖ·£¬£¨½«Ñ²¼ìµÄlogÈÕÖ¾´«ÖÁ·þÎñ11.111.111.11£©
+è¯¥IPåœ°å€ä¸ºä½ è¦ä¸Šä¼ è‡³æœåŠ¡å™¨åœ°å€ï¼Œï¼ˆå°†å·¡æ£€çš„logæ—¥å¿—ä¼ è‡³æœåŠ¡11.111.111.11ï¼‰
 
-4¡¢ÔÚ11.111.111.11ÉÏ£¨ÎÒµÄÊÇwindows»·¾³£©£¬×ö¸ö¼Æ»®ÈÎÎñ£¬Ö´ÐÐparse.js£¬ÐÞ¸Äparse.jsÖÐÏà¹ØÂ·¾¶
-5¡¢°Ñ¡¶ÏµÍ³ºÍÖ÷»úÃû¶ÔÕÕ±í.txt¡··Åµ½¶ÔÓ¦µÄÎ»ÖÃ¡£
+4ã€åœ¨11.111.111.11ä¸Šï¼ˆæˆ‘çš„æ˜¯windowsçŽ¯å¢ƒï¼‰ï¼Œåšä¸ªè®¡åˆ’ä»»åŠ¡ï¼Œæ‰§è¡Œparse.jsï¼Œä¿®æ”¹parse.jsä¸­ç›¸å…³è·¯å¾„
+5ã€æŠŠã€Šç³»ç»Ÿå’Œä¸»æœºåå¯¹ç…§è¡¨.txtã€‹æ”¾åˆ°å¯¹åº”çš„ä½ç½®ã€‚
